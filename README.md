@@ -1,3 +1,6 @@
+
+<h1 align="center">&lt;👋 Hello, World! /&gt;</h1>
+
 ```sh
 $ man --help
 Usage: man [OPTION...] [SECTION] PAGE...
